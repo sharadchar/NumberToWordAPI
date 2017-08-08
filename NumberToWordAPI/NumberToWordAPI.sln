@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWordAPI", "NumberToWordAPI\NumberToWordAPI.csproj", "{54ECC08E-9D64-4FE4-8138-C9B55EB2CA4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWordLib", "NumberToWordLib\NumberToWordLib.csproj", "{75D4CBB2-F24F-4A69-9F93-225E6B387F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E7BFB433-9CB1-43A7-838C-B6D39890FF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54ECC08E-9D64-4FE4-8138-C9B55EB2CA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54ECC08E-9D64-4FE4-8138-C9B55EB2CA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54ECC08E-9D64-4FE4-8138-C9B55EB2CA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54ECC08E-9D64-4FE4-8138-C9B55EB2CA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D4CBB2-F24F-4A69-9F93-225E6B387F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D4CBB2-F24F-4A69-9F93-225E6B387F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D4CBB2-F24F-4A69-9F93-225E6B387F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D4CBB2-F24F-4A69-9F93-225E6B387F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BFB433-9CB1-43A7-838C-B6D39890FF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BFB433-9CB1-43A7-838C-B6D39890FF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BFB433-9CB1-43A7-838C-B6D39890FF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BFB433-9CB1-43A7-838C-B6D39890FF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

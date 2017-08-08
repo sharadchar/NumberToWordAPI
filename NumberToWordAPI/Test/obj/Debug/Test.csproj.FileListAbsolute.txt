@@ -1,0 +1,8 @@
+E:\Sharad\Test Project RND\NumberToWordAPI\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Sharad\Test Project RND\NumberToWordAPI\Test\bin\Debug\Test.exe.config
+E:\Sharad\Test Project RND\NumberToWordAPI\Test\bin\Debug\Test.exe
+E:\Sharad\Test Project RND\NumberToWordAPI\Test\bin\Debug\Test.pdb
+E:\Sharad\Test Project RND\NumberToWordAPI\Test\bin\Debug\NumberToWordLib.dll
+E:\Sharad\Test Project RND\NumberToWordAPI\Test\bin\Debug\NumberToWordLib.pdb
+E:\Sharad\Test Project RND\NumberToWordAPI\Test\obj\Debug\Test.exe
+E:\Sharad\Test Project RND\NumberToWordAPI\Test\obj\Debug\Test.pdb

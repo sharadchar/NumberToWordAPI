@@ -53,7 +53,7 @@ namespace NumberToWordLib
                     words += "and ";
 
                 var unitsMap = new[] { "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen" };
-                var tensMap = new[] { "Zero", "Ten", "Twenty", "thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" };
+                var tensMap = new[] { "Zero", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" };
 
                 if (number < 20)
                     words += unitsMap[number];

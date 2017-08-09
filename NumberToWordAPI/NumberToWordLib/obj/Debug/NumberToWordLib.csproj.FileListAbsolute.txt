@@ -2,3 +2,7 @@ E:\Sharad\Test Project RND\NumberToWordAPI\NumberToWordLib\bin\Debug\NumberToWor
 E:\Sharad\Test Project RND\NumberToWordAPI\NumberToWordLib\bin\Debug\NumberToWordLib.pdb
 E:\Sharad\Test Project RND\NumberToWordAPI\NumberToWordLib\obj\Debug\NumberToWordLib.dll
 E:\Sharad\Test Project RND\NumberToWordAPI\NumberToWordLib\obj\Debug\NumberToWordLib.pdb
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\NumberToWordLib\bin\Debug\NumberToWordLib.dll
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\NumberToWordLib\bin\Debug\NumberToWordLib.pdb
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\NumberToWordLib\obj\Debug\NumberToWordLib.dll
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\NumberToWordLib\obj\Debug\NumberToWordLib.pdb

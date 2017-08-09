@@ -9,3 +9,11 @@ E:\Sharad\Test Project RND\NumberToWordAPI\Test\obj\Debug\Test.pdb
 E:\Sharad\Test Project RND\NumberToWord\NumberToWordAPI\Test\bin\Debug\Test.exe.config
 E:\Sharad\Test Project RND\NumberToWord\NumberToWordAPI\Test\obj\Debug\Test.exe
 E:\Sharad\Test Project RND\NumberToWord\NumberToWordAPI\Test\obj\Debug\Test.pdb
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\Test\bin\Debug\Test.exe.config
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\Test\bin\Debug\Test.exe
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\Test\bin\Debug\Test.pdb
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\Test\bin\Debug\NumberToWordLib.dll
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\Test\bin\Debug\NumberToWordLib.pdb
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\Test\obj\Debug\Test.exe
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\Test\obj\Debug\Test.pdb

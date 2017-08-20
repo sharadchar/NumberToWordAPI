@@ -13,8 +13,17 @@ namespace NumberToWordLib
             number = Math.Round(number,2);
             string[] splitter = number.ToString().Split('.');
             int intPart = int.Parse(splitter[0]);
-            int decPart = int.Parse(splitter[1]);
-            string words = NumberToWord(intPart) + "-" + NumberToWord(decPart) + " Cents";
+            int decPart;
+            string words;
+            if (splitter.Length > 1)
+            {
+                decPart = int.Parse(splitter[1]);
+                words = NumberToWord(intPart) + "-" + NumberToWord(decPart) + " Cents";
+            }
+            else
+            {
+                words = NumberToWord(intPart);
+            }
             return words;
            
         }

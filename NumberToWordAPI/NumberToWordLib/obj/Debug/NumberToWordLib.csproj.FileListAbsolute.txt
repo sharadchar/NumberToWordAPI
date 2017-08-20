@@ -6,3 +6,4 @@ D:\AngularJS\NumberToWordAPI\NumberToWordAPI\NumberToWordLib\bin\Debug\NumberToW
 D:\AngularJS\NumberToWordAPI\NumberToWordAPI\NumberToWordLib\bin\Debug\NumberToWordLib.pdb
 D:\AngularJS\NumberToWordAPI\NumberToWordAPI\NumberToWordLib\obj\Debug\NumberToWordLib.dll
 D:\AngularJS\NumberToWordAPI\NumberToWordAPI\NumberToWordLib\obj\Debug\NumberToWordLib.pdb
+D:\AngularJS\NumberToWordAPI\NumberToWordAPI\NumberToWordLib\obj\Debug\NumberToWordLib.csprojResolveAssemblyReference.cache
